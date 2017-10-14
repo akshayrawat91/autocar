@@ -1,6 +1,5 @@
-%---*** The University of Texas at Dallas ***---%
 %--- simple Automated driving actions using s(ASP) system ----%
-%--- created by Akshay Rawat (axr162930@utdallas.edu) ---%
+%--- @author akshayrawat91 ---%
 
 
 %--- Traffic signal lights---%
